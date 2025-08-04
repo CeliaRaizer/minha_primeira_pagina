@@ -4,8 +4,12 @@ Desenvolvimento Web
 
 git status
 
-git push
+git add
 
-git pull
+git commit -m
+
+git push origin main
+
+git pull origin mais
 
 git checktou main
