@@ -10,6 +10,6 @@ git commit -m
 
 git push origin main
 
-git pull origin mais
+git pull origin main
 
 git checktou main
