@@ -1,7 +1,7 @@
 # minha_primeira_pagina
-Desenvolvimento Web
-
-**Git- Software de Controle de versão**
+##Desenvolvimento Web
+***
+###**Git- Software de Controle de versão**
  Controle de histórico
  Trabalho em equipe
  Ramificação do projeto
