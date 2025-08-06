@@ -8,14 +8,14 @@
 * Segurança
 * Organização
 
--[] git status
+- [ ] git status
 
--[] git add *
+- [x] git add *
 
--[] git commit -m
+- [x] git commit -m
 
--[]git push origin main
+- [x] git push origin main
 
--[] git pull origin main
+- [x] git pull origin main
 
--[] git checktou main
+- [ ] git checktou main
